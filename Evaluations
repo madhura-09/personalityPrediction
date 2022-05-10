@@ -1,0 +1,1263 @@
+################################################### Model training output ######################################################
+
+[1] "k-val 2  Variable con done."
+[1] "k-val 2  Variable ext done."
+[1] "k-val 2  Variable agr done."
+[1] "k-val 2  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 2  Variable ope done."
+[1] "k-val 2  Variable con done."
+[1] "k-val 2  Variable ext done."
+[1] "k-val 2  Variable agr done."
+[1] "k-val 2  Variable neu done."
+$ope
+[1] 0.09905817
+
+$con
+[1] 0.1017524
+
+$ext
+[1] 0.01624864
+
+$agr
+[1] 0.0436208
+
+$neu
+[1] 0.09471825
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 3  Variable ope done."
+[1] "k-val 3  Variable con done."
+[1] "k-val 3  Variable ext done."
+[1] "k-val 3  Variable agr done."
+[1] "k-val 3  Variable neu done."
+$ope
+[1] 0.2412642
+
+$con
+[1] 0.1349878
+
+$ext
+[1] 0.06716528
+
+$agr
+[1] 0.05741315
+
+$neu
+[1] 0.09958269
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 4  Variable ope done."
+[1] "k-val 4  Variable con done."
+[1] "k-val 4  Variable ext done."
+[1] "k-val 4  Variable agr done."
+[1] "k-val 4  Variable neu done."
+$ope
+[1] 0.256421
+
+$con
+[1] 0.1345371
+
+$ext
+[1] 0.06753627
+
+$agr
+[1] 0.05859328
+
+$neu
+[1] 0.1354457
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 5  Variable ope done."
+[1] "k-val 5  Variable con done."
+[1] "k-val 5  Variable ext done."
+[1] "k-val 5  Variable agr done."
+[1] "k-val 5  Variable neu done."
+$ope
+[1] 0.2578799
+
+$con
+[1] 0.134514
+
+$ext
+[1] 0.08456146
+
+$agr
+[1] 0.07045281
+
+$neu
+[1] 0.1408319
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 6  Variable ope done."
+[1] "k-val 6  Variable con done."
+[1] "k-val 6  Variable ext done."
+[1] "k-val 6  Variable agr done."
+[1] "k-val 6  Variable neu done."
+$ope
+[1] 0.258272
+
+$con
+[1] 0.1664224
+
+$ext
+[1] 0.1510052
+
+$agr
+[1] 0.09058724
+
+$neu
+[1] 0.1365345
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 7  Variable ope done."
+[1] "k-val 7  Variable con done."
+[1] "k-val 7  Variable ext done."
+[1] "k-val 7  Variable agr done."
+[1] "k-val 7  Variable neu done."
+$ope
+[1] 0.2613068
+
+$con
+[1] 0.1837886
+
+$ext
+[1] 0.2013233
+
+$agr
+[1] 0.1036306
+
+$neu
+[1] 0.1599766
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 8  Variable ope done."
+[1] "k-val 8  Variable con done."
+[1] "k-val 8  Variable ext done."
+[1] "k-val 8  Variable agr done."
+[1] "k-val 8  Variable neu done."
+$ope
+[1] 0.3149035
+
+$con
+[1] 0.1830392
+
+$ext
+[1] 0.2100394
+
+$agr
+[1] 0.1037766
+
+$neu
+[1] 0.1643607
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 9  Variable ope done."
+[1] "k-val 9  Variable con done."
+[1] "k-val 9  Variable ext done."
+[1] "k-val 9  Variable agr done."
+[1] "k-val 9  Variable neu done."
+$ope
+[1] 0.3143612
+
+$con
+[1] 0.2067829
+
+$ext
+[1] 0.2092426
+
+$agr
+[1] 0.1141792
+
+$neu
+[1] 0.1656913
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 10  Variable ope done."
+[1] "k-val 10  Variable con done."
+[1] "k-val 10  Variable ext done."
+[1] "k-val 10  Variable agr done."
+[1] "k-val 10  Variable neu done."
+$ope
+[1] 0.3169619
+
+$con
+[1] 0.2053663
+
+$ext
+[1] 0.2270903
+
+$agr
+[1] 0.1124046
+
+$neu
+[1] 0.167513
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 15  Variable ope done."
+[1] "k-val 15  Variable con done."
+[1] "k-val 15  Variable ext done."
+[1] "k-val 15  Variable agr done."
+[1] "k-val 15  Variable neu done."
+$ope
+[1] 0.352942
+
+$con
+[1] 0.2301415
+
+$ext
+[1] 0.246846
+
+$agr
+[1] 0.1608101
+
+$neu
+[1] 0.2595039
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 20  Variable ope done."
+[1] "k-val 20  Variable con done."
+[1] "k-val 20  Variable ext done."
+[1] "k-val 20  Variable agr done."
+[1] "k-val 20  Variable neu done."
+$ope
+[1] 0.4102386
+
+$con
+[1] 0.2458818
+
+$ext
+[1] 0.2791142
+
+$agr
+[1] 0.1717918
+
+$neu
+[1] 0.2730079
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 30  Variable ope done."
+[1] "k-val 30  Variable con done."
+[1] "k-val 30  Variable ext done."
+[1] "k-val 30  Variable agr done."
+[1] "k-val 30  Variable neu done."
+$ope
+[1] 0.4149348
+
+$con
+[1] 0.2581574
+
+$ext
+[1] 0.2882128
+
+$agr
+[1] 0.1809222
+
+$neu
+[1] 0.2920433
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 40  Variable ope done."
+[1] "k-val 40  Variable con done."
+[1] "k-val 40  Variable ext done."
+[1] "k-val 40  Variable agr done."
+[1] "k-val 40  Variable neu done."
+$ope
+[1] 0.4284156
+
+$con
+[1] 0.2602738
+
+$ext
+[1] 0.3044245
+
+$agr
+[1] 0.1966205
+
+$neu
+[1] 0.2958707
+
+[1] "Cross-validated predictions for the particular fold number: 1"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 2"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 3"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 4"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 5"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 6"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 7"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 8"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 9"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+[1] "Cross-validated predictions for the particular fold number: 10"
+[1] "k-val 50  Variable ope done."
+[1] "k-val 50  Variable con done."
+[1] "k-val 50  Variable ext done."
+[1] "k-val 50  Variable agr done."
+[1] "k-val 50  Variable neu done."
+$ope
+[1] 0.4495968
+
+$con
+[1] 0.2639683
+
+$ext
+[1] 0.3087149
+
+$agr
+[1] 0.212923
+
+$neu
+[1] 0.3040935
+
+##################################################### Leadership abilities calculation ###########################################
+Sample output for predicting personality traits
+
+    user_id                         pred_ope      pred_con      pred_ext      pred_agr      pred_neu
+ef740a361c4febfd07ccd42882274e48  0.4052859591 -0.1043434201  0.0747729223 -1.193548e-02  0.0351842412
+ac8bf16a381d07c01b11651994ecb746  0.7300633153 -0.1054350674 -0.2001967089  1.590322e-02  0.0434806605
+810c70fdd8c82cb4e0afc1e8cc62759a  0.9526598738  0.0261026980 -0.0206517036  3.558472e-01 -0.2083256116
+99ceed4af8523b871ba6d545489c4d48  0.9668055822 -0.2489908024 -0.1533691603 -2.118348e-01  0.2390950552
+ad84497ad2a8607e8b47bc7eaca5528f  0.6854379630 -0.0642017931  0.2625593176  2.989354e-02 -0.0267892560
+a1a85df1bcb10024c654cf9cea3760fe  0.5441719338 -0.4502444264 -0.2131114324  2.325373e-02  0.2407729972
+0ccc597e77c14dc29bf9d35200fa92d3  0.3502993529 -0.1127371614 -0.0899014921  4.963289e-03  0.0548076424
+c96bec5aa5a8e2e9c94388a515a80146  0.2527159289  0.0712456918 -0.0909456368  1.196043e-01  0.1180669048
+48609bc3623981973f94bcbb230ee426  0.7989067349 -0.2321457049  0.0282095352  9.414855e-02 -0.0129736171
+24602eda6e0a6f4c65cc0feb2c589eed  0.2637133113  0.1626722238  0.0977300531  1.956331e-01 -0.1581769253
+45020c829d10aa3bfa0414bb119888ce  0.0643352007 -0.0298828139 -0.2845673811 -1.417615e-01 -0.1385898202
+dcb93f7be2f6767837f104b5ad6c8f5c -0.0663528199  0.0633985112 -0.1707622707  6.815381e-02  0.0318717299
+01ef532396c47fef7d0553026b3976fc  0.7532671443 -0.0710341773  0.0490846874 -1.926967e-01 -0.1713273553
+e2a426b3a98c5490db2316b0c8336fa4  0.5042215294 -0.0746282762 -0.2187763331 -2.403718e-01 -0.0072550232
+4f75044a8199249e5a6490ac90fc7853 -0.1241050630  0.0590433189  0.1367361941  3.050835e-01  0.0168932616
+fca202ece88b4a32849247e10b306249  0.2644514134  0.1196899451  0.1986804466  2.892871e-01 -0.1310230792
+ae73a19038068a2d82fc80aabe79556b  0.2445280203 -0.1850756574  0.0707946741 -8.918675e-02  0.0125929540
+887de291017e13fe26748c8565ed9278  1.4843323987 -0.1267175574  0.1646469614  8.730888e-03  0.2366326027
+3edaed12113887661a0371e07821204c  0.0522053558  0.5804713192  0.2689826424  5.749163e-01 -0.2498451497
+6cc90783d93299115da3b901b8ac9506  0.3418997629 -0.1754914941 -0.0356229062 -7.655763e-02  0.0172845584
+7a1d058a959f9316d3ddfc3d383cf03b  0.1670606521  0.0435182205  0.1533422795  7.430795e-02  0.0335367539
+fe0930e8a20f2b5f456c9a40c62ab9bd  0.5355300150 -0.1248133501  0.0074784699  1.509697e-01 -0.0634409404
+4d8e553f0179203d87458d9077f8277d  0.7103497552 -0.3085511764 -0.2270407931 -1.865246e-01  0.3201265794
+447d801093ec70c33f54b3cd15c467dd -0.6442758506  0.7223888203  1.2108725569  5.720676e-01 -1.4490032195
+60e8e551a84f9e84347dda9ab91625bd  0.8879808607  0.0412956243  0.7507136582  2.311383e-01 -0.3678740574
+2ce1c0b56582190ce2ab3381032886c8  0.2485756858  0.0504938520  0.0781729941  5.111990e-02 -0.2249796440
+a7b6dc0dfb89db61ddc539aa7afc53e0  0.4531003508 -0.3625103041  0.6161562659 -8.216640e-03  0.6978530801
+3e7ce80a41a5db4af9b2d3b440dd5620  0.8332549126 -0.3497747498  0.0154245279 -8.329261e-02  0.0392493182
+028bae087ec4187a8610d1f8c70ac4f5  0.2692638542 -0.1638481421 -0.0585266416 -1.327119e-01 -0.0479506362
+0183b89f8a41e9dc15e773d6d757a90c  0.4264289161 -0.2078771425 -0.1355034026 -2.931557e-01  0.0394079480
+4834bbd35eb3d458f8533e8dd405b51e  0.3444175870  0.0244204365  0.0570098810  1.173299e-01  0.1703033564
+b513aaf942d4824ea0f3bccccec4c51d  0.2386102710 -0.0196545945  0.0226682265  1.209768e-01  0.2294914466
+657a30b879f09a4e660bd2999b105f33  0.4545050383 -0.0938449629  0.0666581160  1.350487e-01 -0.0390612818
+044ca6067dd12d0cc8bd2418efb1b2e7  0.3857121605  0.0907076950  0.2000633679 -6.519777e-03 -0.0668209085
+dce0b2c18f2148e2e51c93551a7c4239  0.1697709777 -0.1076077019  0.0070959979 -1.469286e-01 -0.0252569261
+e9b1f61e1ed2b2792f5c516870b376f0  0.7902283373 -0.3210760239 -0.1486238365 -1.736081e-01  0.3180073413
+3548ddfb31a1ba21886f4f29727f2cb1  0.5736349518 -0.1465685799  0.0636724176 -1.271100e-01 -0.1155966498
+dbdcbc617f20c655e399100f4b62cf76 -0.1706157388  0.5103384398  0.1288681092  3.552778e-01  0.1256801847
+bfacfd53d928d5710cf8e17a4f3e26f1  0.2024880449  0.1119667959  0.0593174143 -6.861338e-02  0.1039249767
+c39591f635b899ed90b8fb92064788b6 -0.0301095751  0.1828758196  0.4826318943 -6.532148e-02 -0.2752499697
+4ac52f27d40ff863f48e920940921263  0.4877571454 -0.1389066622  0.0014975260 -7.850875e-03 -0.0221520715
+1044d200cf7c88954dbbd08cccb20ea5  0.2046607090  0.0010665056  0.0993373469  9.172050e-02  0.0898920101
+af4a3da465f9aaaedfef28fe92ba8861  0.3436954889  0.1887606745  0.0501338794 -1.399801e-01 -0.5054762903
+21287e8a9d221999ea917f13583bafac  0.1138040757  0.1122611402  0.1254644813 -4.580136e-02  0.0357307737
+842b3681d2e50f27aa50ede60b302e9c -0.1815561213  0.0853014010  0.7501035126 -3.067668e-01 -0.5324592302
+c46c79a23851b1fb232f9ed1eff4143a  0.9501990430 -0.1833494970  0.0602848661 -8.993325e-02  0.1466433702
+92aba5217390971624b62a8ccf28a350  0.3677038095 -0.2798021369 -0.1836853691 -2.525610e-02  0.1577393197
+877feeeb4146a641a5c60bcfcb8e91f1  0.7641267656  0.0505372977  0.3538582063  2.184198e-01  0.0857481401
+39c27497334dd63429e487657e7e5346  2.0326019490 -0.4260942864 -0.2531032421  1.440109e-01  0.4515311886
+c006846332b84b153df7c71551b363f0  0.4167990776 -0.0297274683  0.2566550997  1.604358e-01 -0.0534533379
+5c831b9e5723a323d75f387bd7ce315c  0.4189407792 -0.1838929291  0.0869236925 -1.624727e-01  0.0149219365
+abbf496738e6e1532d617151e151fd31  0.0362700875 -0.0049889468  0.1947949629 -1.496759e-01 -0.1242907777
+72a8c3604dc5ec946dbad91e4e32a96c  0.2002987995 -0.1906215636 -0.1072458916 -1.294465e-01 -0.0471024739
+b512e7cb84e9ea909ce34dda079ea57c -0.1901997027  0.1287614580  0.2062085140 -2.793691e-02 -0.1260571923
+c734d1b0e484ffdb50cf508196d074cc  0.1378694150  0.1793147963  0.3535687304 -5.272533e-02 -0.2292386735
+0c7eaa5b184b9fed3c9863ae004f173c  0.6717505579  0.0462766091  0.0941948789 -1.641066e-01 -0.0338073357
+450df0fb3d306a11d3715a08946208cf  0.2101447321 -0.0352928020  0.0312976683 -6.631883e-02  0.0736831693
+333462896bfe81fcdc73a6418f6ba013  1.0116302880  0.0414637590  0.4499483624  7.119741e-02 -0.0724111912
+f9291c4388961fa46fb9c479916bb6f4  1.0268738224 -0.2094375927 -0.1062170778 -1.693427e-01  0.2315128917
+c85c98abb0e06f44406eb40f9ab9b858  0.6385510026 -0.2241990258  0.0764942603 -9.869859e-02  0.0013786078
+cf8218b1c535dc70f17efc6c90785960  0.2500607882 -0.4999045602 -0.3795422844 -1.396190e-01  0.1507630367
+ee38a9f6fe502250a64a3fa6adee32fe  0.1429815657 -0.1657118530 -0.0160976501 -1.842514e-01 -0.0380125621
+8a88458513f5f46c536745de54503e39  0.2524850514  0.2085412835  0.3181597762  1.122874e-03 -0.0829574091
+b442a902e7ec72644d953a7eb6bf4184 -0.0943525676  0.1665455773  0.1348669886  1.126782e-01  0.0615259634
+66583efb59b64612325c1da8bf762943  1.1971205405 -0.7469734491 -0.3589408984 -4.377670e-01  0.7717013574
+5c1e978f6e74fd37b8fb19c7c59b4b5b  1.4180500586 -0.5029890653 -0.1277096841 -4.608117e-01  0.2476941528
+a7c38d4679725acf34cd74ce6ea77dbb  0.3227247230 -0.2136344296 -0.1833581341 -1.812009e-01  0.1885482326
+bd24300b0fb7ec3d3df2a19947b32def  0.5646390861  0.3198905102  0.3421739918  1.345530e-01 -0.0654284662
+f88375d6a17c64e8f8d158901cd447eb  0.0557149102 -0.0491182946  0.0421165063 -3.890248e-02 -0.0626661887
+be6bac07e941c7759e7de509ef3f7338  0.6413661052  0.1133104507  0.7293083932 -8.596443e-02 -0.0119534863
+c75b8c9d25b8d90592dce9568d457fd6  0.5227999539 -0.1660023305  0.0917143664 -3.427581e-05 -0.0600592288
+02d0adc1e2dc3b80062a87cc91f71213  0.0001329262  0.2904577723  0.1708836415  4.839120e-02 -0.1568760056
+790f82bfb55fc69e001279627a043952  0.4760624270 -0.1801249015 -0.0617832496 -6.316718e-02  0.2507128081
+2443bebf3e67ec539940075b26c502c9  0.3178470446 -0.0544755651 -0.1562202901 -1.105450e-01  0.0790446014
+45357e5923b2a816afb4589a8a10d936  0.8805121449  0.2632844390  0.2636969433  1.539165e-01 -0.2040208233
+ac7ca4ab94ecc144a8ecca59f9b9f665  0.2715702907 -0.1184566538 -0.1095696624 -1.398175e-01  0.0122207152
+dd30f450d05070774eea3ac68ce74adf  0.9816519964 -0.3788510443  0.0448567285 -8.358588e-02 -0.0423157081
+2a5f6f4b4119ce347a331edaf5d080ca  0.4872127522 -0.1722158639 -0.0142640142 -1.646118e-01  0.4470286266
+ad27e0de13fde64dadafbd7c297961c1  0.9845382013  0.1868255175  0.0774889368  1.955271e-01 -0.0881244132
+1867a73fe1bacebb8ece4c4219a16819  0.2878703525 -0.1433395224 -0.2821893507  1.263216e-02  0.5006476918
+d4747bef0c0143d166e872162deca1d2  0.0548807472 -0.0871848567  0.0136961344 -6.840578e-02 -0.0795821208
+2043d09fd87a4ab420ae22dada73eac5  0.4446960934 -0.1320318420 -0.2593443161 -1.836692e-01  0.1635919568
+0c7ce0ab263911f5312d4cf53885f407  0.3616372761  0.1143122093  0.1526952820  2.936075e-01  0.2243243880
+7064f44560571fec60f4fe6d62054f6d  0.7101266440 -0.0130460868 -0.0824237471 -1.346019e-01 -0.1870495170
+7df7eabcd52216889de0a904df322ad3  0.7828155784 -0.2023626166  0.0868876988  1.221039e-01  0.1927154351
+4bbbe2db39ffa859d951f4f023400955  0.3030801690 -0.4190517049 -0.1617730211 -1.279467e-01  0.1296224080
+1098c6637c53a85dc9afc7b5fe17f870  0.1038743916  0.0081277535 -0.2083274683 -2.260919e-01  0.1715937401
+55922fecd1681b106a27627a0f14d023 -0.0852008714  0.3151010457  0.2728034004  1.276262e-01 -0.6059728765
+1674ea12a282cbf2564ad22973588b12  0.9014208900 -0.3680968328 -0.1983949200 -2.145362e-01  0.2723078905
+0c9deefdb7a79c3f35121b8372997183  0.3916059548  0.0561592363 -0.0914370574 -2.701680e-01  0.3014337080
+409b3efea20ba8e5f650ac94eb0502ba  0.4787666410 -0.2415166524 -0.0643610084 -5.355471e-02  0.2345822951
+49c06a442002479082936e8564e314b7  0.2518072619  0.0138750160 -0.1447312357  5.905660e-02  0.1232560822
+d8b8935693b8222ad09ee59560d0d7c7  0.4561093289 -0.2047116519 -0.1136918109 -3.260252e-02  0.0643801435
+23dfd7ebd82addfc4e8560b6db4f965a  0.5764815747 -0.0046351538  0.1036117283  1.088497e-01 -0.0650183393
+a68cf1da7e14906064063e9aca0d85da  0.0649458846  0.1169646308  0.1691546518  3.717722e-01 -0.0956467845
+bd4c44b709d4301605cce1ccb2b11cdf  0.3174395832  0.0761014625 -0.0170932338 -9.500342e-02  0.1834776557
+b4c82976113d79460af37b313f798528  0.6311100567  0.2551811049  0.4125018121  1.923966e-01 -0.0811455385
+0ea5db2574dc380c38ae68dafe510e01  0.1295192697 -0.0346999295 -0.0337589292 -2.925942e-02  0.0540340524
+6a576375cd19945108ab91d4236b0c72  0.3643317698 -0.2141745815 -0.0821315483 -1.262079e-01  0.0931131607
+75d50b28d40a7af03618663935e4ff80  0.1593561004 -0.1295898169 -0.1546742414  5.920711e-02  0.0716098998
+ca1758a5a1b1e8a676602508c2120869  0.2907496846  0.0195952804 -0.2186220433 -2.308827e-01  0.3446869528
+810f36291d92253ed8060b8073f8cf66  0.3186243769 -0.2253964776 -0.1275980531 -9.957726e-03 -0.0666915553
+d30ee4ece4feb7e8db6339e03073ab9e  0.1962748728 -0.0417425779  0.0108387261  8.310954e-02  0.0899060620
+0474085c5f0ed5547a3ac01f3e7e0245  0.4990668246 -0.1362970876 -0.0957708236 -1.025528e-01 -0.0012074797
+98d01fe602ebfc448114c554f50568f7  0.5362557518 -0.2546180296 -0.0663227024 -7.408434e-02  0.2725961663
+3358ed01fa43f4341097734caf2d0a7d -0.0048319380 -0.0600892505 -0.1626057270 -2.159521e-02  0.1675008256
+38a82532eaca819a6c58da7cd4f4b9fe  0.1914253190 -0.1763224800 -0.2672820338 -2.243774e-01 -0.1942730822
+ea467194fdd69a72a543464810c240fb  0.3816162305  0.0162554956  0.0180918898 -6.950100e-03  0.0650459138
+dbce44fb6f4c1fdda6dcd7403e3cfa7f  0.2253588390  0.1314056961  0.3328233886 -1.841789e-03 -0.1007028983
+a60a72500b3fc303b36f34e97a00c6c5  0.4321183986 -0.1376843942  0.1181008619  1.271891e-02  0.0112173152
+a1913602843a094ba2ac6f2ac78e4ce7  0.0790236180  0.1035228861  0.0968917786  2.464980e-01  0.0361711283
+5ddd0914555679112fe7212e4f317a62  0.4991070017 -0.3114123359 -0.0143571500 -1.033361e-02  0.2170180268
+28299627c2f802b2a451f2db48083f8a -0.1083760752 -0.0663612584 -0.2594103955 -2.163309e-01  0.1803121700
+8bc42c5d52c12cd2adcac29c5bbdda55 -0.2877383153 -0.0403381888 -0.0189032869 -1.900149e-01  0.0305918668
+edfd429cd097d8f3ef1f3379d1ce07c2  0.5611074196 -0.0523595820  0.2052804165 -7.515217e-02  0.1838279961
+3f00f00d09731f3a64e8c0fe460fd076  0.8584938297  0.1337730177  0.3510914865  2.296712e-01 -0.2429139545
+62837ec8113a287abaa335b8d864248f  0.1644470779 -0.0765593853 -0.0831540028  9.630820e-03  0.0102405336
+29b9f90b2a6f4d480cb6377aeffffad2  0.8808634363 -0.1412159779  0.0185916309 -4.134386e-03  0.2904031779
+a249c19991e801fae1291e613e3d2b93  0.8623013096 -0.2806973266 -0.0559037411  6.011492e-02  0.3648608424
+99a638d257851cf6e285981f768408bd  0.0029838625 -0.1071033621  0.0368781862  4.741332e-02  0.1125982495
+838a797b81ec9aebd7dd75e2efca40c8  0.1294317236  0.3333014703  0.1063240149  3.537122e-01 -0.3700524488
+2254860bbc18147488f5ff374fe5d753  0.5597675950 -0.1025547697  0.0263085035  1.391109e-02  0.1428092227
+607cfcc5aa93b555280940f7ac37ce54  1.0192308569 -0.2376979650 -0.0582040395 -1.019350e-02  0.2795145894
+7cde28c3a235170fd1b131abd706c9ef  0.0617379126 -0.0630695053  0.1291649058 -6.234693e-02  0.1863595465
+9767c8149fc0cd46d2764d65bb774429  0.1096122729 -0.2002493040 -0.0861253596 -1.506774e-01  0.0879296503
+bdf1aaf5c9c799b717946ea7f26510b9 -0.2464685197  0.1938982790 -0.0666753420 -1.022821e-01 -0.0787432159
+40b24d323af398800e01b9a70fc61464  0.0469031405  0.0422546753  0.0181518766 -1.044035e-01 -0.0267267617
+9d2ea368fc383403f3711c3e29b23bab  0.4280739832 -0.2437065772 -0.0417360544 -3.798746e-02  0.1600605270
+1369e6f8851c3b478fa84eaf36db4edb  0.3838323041 -0.1176318929 -0.1387026641 -2.428600e-01  0.2269435457
+2b6be1957e9abac5e96678d2d0f23d25 -0.1685754331 -0.0207635311  0.1228448780 -7.049316e-02  0.3446626956
+480bbbf526fc60c4494b0d7c2f5c0015  0.4639112423 -0.2531657209 -0.0448773013  1.076808e-01  0.1314008394
+ded36785298cddcf94a432f372a4a1d3  0.5403408814  0.2475602808  0.1068864849  1.660444e-01 -0.0753354035
+28a16822815e3929ea301d022bddae03  0.4801403761 -0.1476191088 -0.1111059247 -8.932026e-02  0.1923864124
+9d9c20ebeb4307a514a161b353e676c0  0.6076022042 -0.2690924733 -0.0594897901 -2.220242e-01  0.0810954153
+2aa3d0ce1b643ee8d8bfe5f8285c9aed -0.1695848561 -0.0435011433 -0.0646608066 -1.328687e-01  0.1130012864
+330eaf6e316eed506daa366074166444 -0.7029309514  0.5191572483  0.6134128661  1.077325e-01  0.2822642956
+c43579464334666c30e6c1190189a9fa -0.2251277985  0.4063905013  0.4666810782  3.465154e-01 -0.5618519777
+ab9faa3b1c56b043e99d3d2559396539 -0.5575323649  0.2397611358  0.0222515103  2.248601e-01 -0.0521657799
+5e4aa3895162c7ecda02cbfdfcea1267  0.3346115058 -0.1770203258  0.0583129824 -9.012471e-02  0.1306854796
+7bfc5494fa7800e8f2e1d4021e525c7e  0.2075123277 -0.3738408595 -0.0407393960 -2.722542e-01 -0.0290620199
+8a9fdbbb1e0b071be864006ee8fa5ca8 -0.0338879390  0.1417027247  0.0645341492  9.003214e-02 -0.0965774951
+58ce1e43864cbe10c1e24f9c9a916480  1.3194304118 -0.1589231967  0.2970710920 -2.382256e-01  0.1405861302
+850654eca605da381162c54946662108  0.7122319736 -0.2741585850  0.0969831407 -8.379062e-02  0.1016586898
+401a4bf71152697e74a3c7471f51faad  0.8115895182 -0.2021703010  0.0434896948 -1.876873e-01  0.0721501456
+929029bf2c5212bfcc402912e22f7351  0.1124479642  0.1905020980 -0.3685832082 -4.453858e-02  0.3800105860
+235ef95534bfe6d5dc0471bac390ee14  0.5605056106 -0.4080744604 -0.0393073275 -4.220080e-02  0.4735433749
+ba6e2af10040d91364ab9f0161ff2f73  0.2217372302 -0.2319517511 -0.1913360170 -5.454404e-02  0.0753539024
+b106ddf414e3e6bda16ff2fd7141e4bd  0.9931686459 -0.2241053331  0.4370649003  2.532039e-01  0.4215715722
+23d5dfcceac29893f5886b0ac8b1ca01  0.1546936363  0.0756316982  0.0283898232 -7.795749e-02  0.0332886121
+dce43e5d2a0a000913ec5abe2238dcf4  0.3459589974 -0.0113476907  0.1640554422  8.899130e-02 -0.1628109299
+3a274c06afe6257e8854f9b8c4c98213  1.2701822571  0.0130934496  1.0346141296 -8.434897e-02  0.1863791261
+af3b3fea5c04885a55ba1b53b8e17f74  0.3063790684 -0.3742674810  0.4635335891 -6.549779e-02  0.2117021071
+04f9bac96b9f31bf2249a238e603a44f  0.0083814806  0.0765344348  0.0772903883 -4.140409e-02  0.1525110323
+ee8500bc0b1088d6781b90639c9863f0  0.9368962574 -0.3269387178 -0.1770174377 -3.149065e-01  0.0750179674
+4583e71ddd8a08f82fa17dc28a7d8a70  0.1845346521 -0.1843046228 -0.1240460952 -2.691896e-01  0.1714778071
+53cf0873a3a1bd71cb40c0f0ba9ad81e -0.2294638161 -0.0214458526 -0.2883217123  4.262522e-02  0.0852500753
+
+
+Sample output of leadership qualities for a user
+$f2b6b20c151f32c22603bacd2918de60
+          [,1]
+[1,] 0.5805326
+
+$`686f62899ce2a711caee48dd9159d6e2`
+           [,1]
+[1,] -0.3783901
+
+$`7da0dadd5fb18c7f9b50479fdf4918fb`
+            [,1]
+[1,] -0.04782202
+
+$`8da706d8f494b6ced3d516d37905d4e4`
+          [,1]
+[1,] 0.6598939
+
+$`4946e247ec298e1c989dd6cb37760ea9`
+           [,1]
+[1,] -0.1780347
+
+$`7572724039b8a57ff61c1fc36a1331c8`
+          [,1]
+[1,] 0.5745087
+
+$e2f997b9b4523399f73032afbfdafced
+         [,1]
+[1,] -0.40263
+
+$`6e09b1311bd79b3a0dedd5f0e6dc17fb`
+          [,1]
+[1,] 0.9797557
+
+
+########################################### Emotion value prediction for the users #######################################
+Sample output
+
+userid	                            sentiments
+1	aae7df9b525a51bc2b073c4c96a214e6	disgust negative
+2	e16ed09edcaf821b5a94e62bdd6094eb	positive
+3	dd25e93bf2ad2d7faaaba02e807728b4	fear sadness negative
+4	2eebab587655fd7c013ad75e32c0c8a9	fear sadness negative
+5	ff8629b5470c6285bc1a6540f0cc0ec6	anger anticipation disgust fear joy sadness surprise trust negative positive
+6	bbe5bc49f00dea56af003f6c32d430e3	anger anticipation disgust fear joy sadness surprise trust negative positive
+7	feaafa395a3a16e1c00c6afacc24b81d	anger anticipation disgust fear joy sadness surprise trust negative positive
+8	d26d7624ef925a9a5ced1a96be423020	anger anticipation disgust fear joy sadness surprise trust negative positive
+9	a4989234dd833a40639aed911e35ec45	trust positive
+10	3f4cfca8dd5a285809d093d34db142c9	anger anticipation disgust fear joy sadness surprise trust negative positive
+11	ef62ea9b5993c56f65226b29ddfc0794	anger anticipation disgust fear joy sadness surprise trust negative positive
+12	2c63a65dc52b98a30327d40118068ad2	anger disgust negative
+13	00a79e823884c04bf3b80fa87289e72c	sadness negative
+14	4c31ec8003be4e5a098be44753fbeebb	anger anticipation disgust fear joy sadness surprise trust negative positive
+15	e6d6bd8e696ef77e120310171b2e4f59	anger anticipation disgust fear joy sadness surprise trust negative positive
+16	39a076d9002fca0310f206197e232aa8	anticipation joy surprise trust positive
+17	98924ff48a8e2be3d6a1db5e41a88735	positive
+18	c86395d6ded2a5e4b2527310595365da	positive
+19	566a918ae8be033dd8d8e2056230a35b	positive
+20	cf09c4dc13405084f69cf1de1a81af13	positive
+21	9e93244fa44ae802b0e8b04a4281458c	positive
+22	2509cc1ae8640cdd3ee5cd9e279b1cb9	positive
+23	6de68bfe1c91d25a71950ef57370ce57	positive
+24	5a5a121e23e441ad85b9949a2d31b73b	positive
+25	aad22e5515cc73b281456e829ebfb917	positive
+26	07239d831926840f2ec2126ba2b1c782	positive
+27	3af4c80a51dd029048da3b234fa67c84	positive
+28	cdddd1fa4060dba04d720452d10676d0	positive
+29	b0f0a61b27319ee086af52a573332198	positive
+30	5e9438a8720fa1601b94aafe40db6622	positive
+⋮	⋮	⋮
+5711	5aa16c986c151a15677f2297a952f933	disgust trust negative positive
+5712	e5a52512189f5b2a5a54fa4364b4fb16	anger anticipation disgust fear joy sadness surprise trust negative positive
+5713	8d3e97e6755e151f781694cfd4121a26	anger anticipation disgust fear joy sadness surprise trust negative positive
+5714	f21d1373cabd12fb2a3efedc68df5c3c	anger anticipation disgust fear joy sadness surprise trust negative positive
+5715	884ab346f6ea57079fd195e72fe0e8b3	anger anticipation disgust fear joy sadness surprise trust negative positive
+5716	979d5ea8674bf9c543b938908dae0ab3	anger anticipation disgust fear joy sadness surprise trust negative positive
+5717	2124934e2d27ab5306c7d8f1922a1a0c	anger anticipation disgust fear joy sadness surprise trust negative positive
+5718	ab0a35b6c91aa1630ad9dab061f02a60	trust positive
+5719	54048fd0c65b3e6ac3dd0afb4dec3cc1	trust positive
+5720	b886ced6de31f93b742eded79661a1f6	trust positive
+5721	829915f455050a26ff75b8afe810651f	trust positive
+5722	4565ea0f1316488d180b8ebf406cecc6	trust positive
+5723	f144b60df540a0ec0437ca68ef4f62b2	trust positive
+5724	3889e175d78809ed501cfcadb7178a15	trust positive
+5725	929226faef707a6783d3b38cb362fd38	trust positive
+5726	4f5913148cb475a96b8a38e8a5fab048	trust positive
+5727	27c1c6dcaefa67beb898620872177e55	trust positive
+5728	f13e681984948c874b8691f210641ec3	trust positive
+5729	f63f33112140a0628e28682e9f7c6143	trust positive
+5730	8f22e6c9dedfc712246a83d16554ea18	anger anticipation disgust fear joy sadness surprise trust negative positive
+5731	52a41df8f455b08a1f3e7e695da65912	anger anticipation disgust fear joy sadness surprise trust negative positive
+5732	ea5e9098b8ead52e64c9a448796a387c	anger anticipation disgust fear joy sadness surprise trust negative positive
+5733	1f1af19abf5b3885193c3b222abf376d	anger anticipation disgust fear joy sadness surprise trust negative positive
+5734	c922de30d0297f2bd94146b46818535e	anger anticipation disgust fear joy sadness surprise trust negative positive
+5735	0f78d460cf2b1d7be7d77693f3b4680a	anger anticipation disgust fear joy sadness surprise trust negative positive
+5736	41fd6cdb80ea641402b83d46262794ba	anger anticipation disgust fear joy sadness surprise trust negative positive
+5737	086c8bb5763b219da892e6dd00d7ff2b	anger anticipation disgust fear joy sadness surprise trust negative positive
+5738	79da381bbd5f0cc130125d5e2c9ab2a2	anger anticipation disgust fear joy sadness surprise trust negative positive
+5739	0c6df7c17af18a2a2fc867cc23b60a88	anger anticipation disgust fear joy sadness surprise trust negative positive
+5740	42979ecc3510af6c96c378646c36d8bb	anger anticipation disgust fear joy sadness surprise trust negative positive
